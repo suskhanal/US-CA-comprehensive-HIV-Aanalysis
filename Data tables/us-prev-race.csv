@@ -1,0 +1,46 @@
+﻿"Date Printed: Monday, January 20, 2025 6:54:14 PM"
+Title: "HIV prevalence | 2018 | 2019 | 2020 (COVID-19 Pandemic) | 2021 | 2022 | United States | American Indian/Alaska Native | Asian | Black/African American | Hispanic/Latino | Multiracial | Native Hawaiian/Other Pacific Islander | White | Both sexes | Ages 13 years and older | All transmission categories""
+Footnote(s): Data for 2023 and 2024 are considered preliminary (subject to a 12-month reporting delay). Inclusion of preliminary data in trend assessments is discouraged. Numbers less than 12͵ and rates and percentages based on these numbers͵ should be interpreted with caution. HIV diagnoses and PrEP data for the year 2020͵ which coincided with the onset of the COVID-19 pandemic͵ should be interpreted with caution due to the impact of the pandemic on access to HIV testing͵ PrEP prescriptions͵ and care-related services. Data by transmission category presented based on sex assigned at birth and are adjusted for missing transmission category. See Technical notes for more details on data availability and stratifications.
+   Prevalence data for the year 2022 are preliminary and based on death data received by CDC as of December 2023. Prevalence data prior to 2010 are based on residence at diagnosis; prevalence data from 2010 to present are based on most recent known address. See Technical Notes for death reporting by jurisdiction.
+   ^ Jurisdiction with incomplete reporting of deaths for most recent year.
+   The 'Sex' column is used for either sex assigned at birth or gender identity.
+   NA - Not applicable.
+
+
+
+Indicator,Year,Race/Ethnicity,Cases,Rate per 100000
+"HIV prevalence","2022","American Indian/Alaska Native","3,266","160.6"
+"HIV prevalence","2022","Asian","17,254","99.3"
+"HIV prevalence","2022","Black/African American","435,070","1243.8"
+"HIV prevalence","2022","Hispanic/Latino","269,138","533.6"
+"HIV prevalence","2022","Multiracial","58,798","1078.8"
+"HIV prevalence","2022","Native Hawaiian/Other Pacific Islander","973","186.1"
+"HIV prevalence","2022","White","306,875","178.7"
+"HIV prevalence","2021","American Indian/Alaska Native","3,125","155.0"
+"HIV prevalence","2021","Asian","16,368","96.6"
+"HIV prevalence","2021","Black/African American","427,568","1230.5"
+"HIV prevalence","2021","Hispanic/Latino","257,157","520.7"
+"HIV prevalence","2021","Multiracial","59,090","1121.1"
+"HIV prevalence","2021","Native Hawaiian/Other Pacific Islander","896","175.0"
+"HIV prevalence","2021","White","303,267","176.3"
+"HIV prevalence","2020 (COVID-19 Pandemic)","American Indian/Alaska Native","2,991","149.8"
+"HIV prevalence","2020 (COVID-19 Pandemic)","Asian","15,631","93.6"
+"HIV prevalence","2020 (COVID-19 Pandemic)","Black/African American","421,133","1218.9"
+"HIV prevalence","2020 (COVID-19 Pandemic)","Hispanic/Latino","248,908","513.7"
+"HIV prevalence","2020 (COVID-19 Pandemic)","Multiracial","59,281","1163.0"
+"HIV prevalence","2020 (COVID-19 Pandemic)","Native Hawaiian/Other Pacific Islander","833","165.4"
+"HIV prevalence","2020 (COVID-19 Pandemic)","White","300,281","174.3"
+"HIV prevalence","2019","American Indian/Alaska Native","2,895","145.0"
+"HIV prevalence","2019","Asian","15,034","92.6"
+"HIV prevalence","2019","Black/African American","416,361","1225.2"
+"HIV prevalence","2019","Hispanic/Latino","243,475","518.5"
+"HIV prevalence","2019","Multiracial","59,383","1221.1"
+"HIV prevalence","2019","Native Hawaiian/Other Pacific Islander","785","159.8"
+"HIV prevalence","2019","White","298,216","173.8"
+"HIV prevalence","2018","American Indian/Alaska Native","2,770","140.1"
+"HIV prevalence","2018","Asian","14,298","89.8"
+"HIV prevalence","2018","Black/African American","407,400","1210.0"
+"HIV prevalence","2018","Hispanic/Latino","235,320","511.6"
+"HIV prevalence","2018","Multiracial","58,914","1252.3"
+"HIV prevalence","2018","Native Hawaiian/Other Pacific Islander","741","153.8"
+"HIV prevalence","2018","White","294,382","171.6"
